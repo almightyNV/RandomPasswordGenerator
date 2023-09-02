@@ -2,7 +2,8 @@
 
 This a Random Password generator project which is built by using Reactjs and Tailwind CSS and it is deployed on Vercel. The link is attached below.
 
-# [Checkout the project here](https://random-password-generator-wine.vercel.app/)
+# Demo - Deployed on Vercel 
+https://random-password-generator-wine.vercel.app/
 
 ## Built with
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
